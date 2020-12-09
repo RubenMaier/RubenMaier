@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Software Engineer and self-taught Data lover!
 
-- 🚀 I’m currently working on [Exo Mindset](http://www.exomindset.co/)
+- 🚀 I’m currently working on [Rebill](https://rebill.to/)
 - 🌱 I' m currently learning Data Science and Machine Learning
 - 🥅 _2020 Goals_: Contribute more to Open Source projects
   <br />
