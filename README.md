@@ -1,10 +1,9 @@
 <h1 align="center">Hello world 👋, I'm Rubén Maier Enzler</h1>
 
-I'm a Full-Stack Software Engineer and self-taught Data lover!
+I'm a Software Engineer and self-taught Data lover!
 
 - 🚀 I’m currently working on [Rebill](https://rebill.to/)
 - 🌱 I' m currently learning Data Science and Machine Learning
-- 🥅 _2021 Goals_: Contribute more to Open Source projects
   <br />
 
 <h4 align="center">Connect with me</h4>
